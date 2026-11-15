@@ -1,0 +1,764 @@
+[
+  {
+    "id": "L01",
+    "title": "Een nieuwe collega in de bakkerij",
+    "theme": "Work · bakery",
+    "source_note": "Original practice text inspired by the 2024 public NT2 Programma I booklet themes; not an official exam passage or question set.",
+    "level": "A2+/B1",
+    "estimated_minutes": 11,
+    "reading": "Bakkerij De Molen heeft meerdere winkels en één grote keuken. In de keuken maken medewerkers elke ochtend brood en gebak. Vervolgens worden de producten naar de winkels gebracht.\n\nMila begint volgende week als nieuwe medewerker. Ze krijgt eerst begeleiding van een ervaren collega. Daarnaast volgt ze een korte training over veiligheid. De training vindt op maandag plaats, voordat de winkel opengaat. Iedereen moet zich vooraf aanmelden.\n\nMila werkt meestal van zeven tot drie uur. Af en toe werkt ze ook op zaterdag, wanneer het extra druk is. Regelmatig bespreekt ze met haar leidinggevende hoe het werk gaat. Uiteindelijk wil ze leren hoe ze zelf bestellingen kan plannen.",
+    "word_ids": [
+      "daarnaast",
+      "vervolgens",
+      "vooraf",
+      "plaatsvinden",
+      "begeleiding",
+      "af-en-toe",
+      "regelmatig",
+      "uiteindelijk"
+    ],
+    "questions": [
+      {
+        "prompt": "Wat gebeurt er met het brood nadat het gemaakt is?",
+        "options": {
+          "A": "Het wordt naar winkels gebracht.",
+          "B": "Het wordt altijd ingevroren.",
+          "C": "Het wordt aan medewerkers gegeven."
+        },
+        "correct": "A",
+        "explanation": "Vervolgens tells you what happens next: the products are taken to shops."
+      },
+      {
+        "prompt": "Wat moet Mila doen voordat de training begint?",
+        "options": {
+          "A": "Een bestelling plannen.",
+          "B": "Zich vooraf aanmelden.",
+          "C": "Een nieuwe winkel zoeken."
+        },
+        "correct": "B",
+        "explanation": "Iedereen moet zich vooraf aanmelden: everyone has to register beforehand."
+      },
+      {
+        "prompt": "Wanneer werkt Mila soms op zaterdag?",
+        "options": {
+          "A": "Als de winkels gesloten zijn.",
+          "B": "Als de training plaatsvindt.",
+          "C": "Als het extra druk is."
+        },
+        "correct": "C",
+        "explanation": "The Saturday shifts happen when it is extra busy."
+      },
+      {
+        "prompt": "Wat wil Mila uiteindelijk leren?",
+        "options": {
+          "A": "Zelf bestellingen plannen.",
+          "B": "Klanten thuis bezoeken.",
+          "C": "Een nieuwe winkel openen."
+        },
+        "correct": "A",
+        "explanation": "Uiteindelijk introduces Mila’s longer-term goal: planning orders herself."
+      }
+    ]
+  },
+  {
+    "id": "L02",
+    "title": "Een cursus naast het werk",
+    "theme": "Education · training",
+    "source_note": "Original practice text inspired by the 2023 public NT2 Programma I booklet themes; not an official exam passage or question set.",
+    "level": "A2+/B1",
+    "estimated_minutes": 12,
+    "reading": "Een opleidingscentrum biedt een avondcursus Nederlands aan. De cursus is bedoeld voor volwassenen die overdag werken. De lessen beginnen in januari en vinden twee keer per week plaats.\n\nDeelnemers krijgen een digitale woordenlijst en korte teksten om thuis te oefenen. Daarnaast kunnen ze elke vrijdag vragen stellen aan een docent. Wie de cursus wil volgen, moet zich vooraf inschrijven. Een diploma is geen voorwaarde, maar het is wel belangrijk dat deelnemers eenvoudige Nederlandse zinnen begrijpen.\n\nSven twijfelt of de cursus bij hem past. Hij begrijpt gewone gesprekken, maar langere brieven zijn nog moeilijk. Hij vraagt om advies. Volgens de docent sluit de cursus goed aan op zijn niveau. Sven besluit zich aan te melden. Hij wil vooral regelmatig oefenen, zodat hij in het voorjaar langere teksten beter kan lezen.",
+    "word_ids": [
+      "opleiding",
+      "deelnemer",
+      "voorwaarde",
+      "daarnaast",
+      "vooraf",
+      "inschrijven",
+      "aansluiten-op",
+      "zodat"
+    ],
+    "questions": [
+      {
+        "prompt": "Voor wie is de cursus vooral bedoeld?",
+        "options": {
+          "A": "Mensen die alleen in het weekend studeren.",
+          "B": "Volwassenen die overdag werken.",
+          "C": "Kinderen die net leren lezen."
+        },
+        "correct": "B",
+        "explanation": "The first paragraph explicitly says it is for adults who work during the day."
+      },
+      {
+        "prompt": "Wat is geen voorwaarde voor deelname?",
+        "options": {
+          "A": "Een diploma.",
+          "B": "Het begrijpen van eenvoudige zinnen.",
+          "C": "Vooraf inschrijven."
+        },
+        "correct": "A",
+        "explanation": "The text states that a diploma is not a requirement."
+      },
+      {
+        "prompt": "Waarom vraagt Sven advies?",
+        "options": {
+          "A": "Hij weet niet of de cursus bij hem past.",
+          "B": "Hij wil een cursus geven.",
+          "C": "Hij kan nooit op vrijdag."
+        },
+        "correct": "A",
+        "explanation": "He doubts whether the course fits his current level."
+      },
+      {
+        "prompt": "Wat wil Sven bereiken?",
+        "options": {
+          "A": "Sneller leren autorijden.",
+          "B": "Minder Nederlands gebruiken.",
+          "C": "Langere teksten beter begrijpen."
+        },
+        "correct": "C",
+        "explanation": "He wants to understand longer texts better by spring."
+      }
+    ]
+  },
+  {
+    "id": "L03",
+    "title": "Ziek melden op het werk",
+    "theme": "Work · procedures",
+    "source_note": "Original practice text inspired by the 2024 public NT2 Programma I booklet themes; not an official exam passage or question set.",
+    "level": "A2+/B1",
+    "estimated_minutes": 13,
+    "reading": "Bij een klein bedrijf zijn duidelijke afspraken gemaakt over ziekte. Een werknemer die niet kan komen werken, moet dit vóór negen uur aan de leidinggevende laten weten. Een bericht aan een collega is niet voldoende.\n\nBij kortdurende ziekte blijft de planning meestal hetzelfde. Indien iemand langer afwezig is, zoekt de werkgever tijdelijk vervanging. Het bedrijf probeert bovendien te onderzoeken waarom medewerkers regelmatig ziek zijn. Soms speelt de werkdruk een rol.\n\nFatih voelt zich op maandagochtend niet goed. Hij stuurt om half acht een bericht naar zijn leidinggevende. De leidinggevende bevestigt dat hij het bericht heeft ontvangen. Vervolgens vraagt ze of Fatih later die week kan laten weten hoe het gaat.\n\nFatih hoeft niet meteen te vertellen welke ziekte hij heeft. Hij moet wel de afspraken over het melden van afwezigheid volgen.",
+    "word_ids": [
+      "werknemer",
+      "leidinggevende",
+      "voldoende",
+      "indien",
+      "werkgever",
+      "bovendien",
+      "regelmatig",
+      "vervolgens",
+      "afdeling"
+    ],
+    "questions": [
+      {
+        "prompt": "Aan wie moet een werknemer ziekte melden?",
+        "options": {
+          "A": "Aan de leidinggevende.",
+          "B": "Alleen aan een collega.",
+          "C": "Aan iedere klant."
+        },
+        "correct": "A",
+        "explanation": "The company requires notice to the supervisor, not merely a colleague."
+      },
+      {
+        "prompt": "Wat gebeurt er mogelijk bij langere afwezigheid?",
+        "options": {
+          "A": "De werknemer krijgt altijd ontslag.",
+          "B": "De werkgever zoekt tijdelijke vervanging.",
+          "C": "Iedereen moet thuiswerken."
+        },
+        "correct": "B",
+        "explanation": "If someone is absent longer, the employer looks for temporary replacement."
+      },
+      {
+        "prompt": "Waarom onderzoekt het bedrijf ziekteverzuim?",
+        "options": {
+          "A": "Om mogelijke oorzaken te begrijpen.",
+          "B": "Om de winkel te verhuizen.",
+          "C": "Om nieuwe klanten te zoeken."
+        },
+        "correct": "A",
+        "explanation": "The company wants to identify reasons people may often be absent."
+      },
+      {
+        "prompt": "Wat moet Fatih niet meteen vertellen?",
+        "options": {
+          "A": "Dat hij niet komt werken.",
+          "B": "Hoe het volgende week gaat.",
+          "C": "Welke ziekte hij precies heeft."
+        },
+        "correct": "C",
+        "explanation": "The final paragraph explicitly says he need not immediately disclose the illness."
+      }
+    ]
+  },
+  {
+    "id": "L04",
+    "title": "Wat verwacht de klant?",
+    "theme": "Work · customer service",
+    "source_note": "Original practice text inspired by the 2024 public NT2 Programma I booklet themes; not an official exam passage or question set.",
+    "level": "A2+/B1",
+    "estimated_minutes": 14,
+    "reading": "In een kledingwinkel komen verschillende klanten. Sommige bezoekers willen rustig rondkijken, terwijl anderen meteen hulp vragen. Een goede medewerker probeert te begrijpen wat iemand nodig heeft voordat hij advies geeft.\n\nEen klant vraagt of een jas waterdicht is. De medewerker weet het antwoord niet zeker en zoekt de informatie op. Hij wil namelijk geen verkeerde belofte doen. Daarna laat hij een andere jas zien die beter bij de wensen van de klant past.\n\nEen week later komt de klant terug omdat een rits kapot is. De winkel heeft duidelijke voorwaarden voor het ruilen en repareren van producten. Indien het probleem onder de garantie valt, wordt de reparatie vergoed.\n\nDe medewerker blijft vriendelijk, ook als de klant ontevreden is. Volgens de bedrijfsleider levert een goede oplossing vaak meer vertrouwen op dan een snelle verkoop.",
+    "word_ids": [
+      "terwijl",
+      "voordat",
+      "advies",
+      "namelijk",
+      "daarna",
+      "voorwaarden",
+      "indien",
+      "vergoeden",
+      "werkzaamheden"
+    ],
+    "questions": [
+      {
+        "prompt": "Waarom zoekt de medewerker informatie op?",
+        "options": {
+          "A": "Hij wil geen verkeerd advies geven.",
+          "B": "Hij wil de winkel eerder sluiten.",
+          "C": "Hij wil de prijs verhogen."
+        },
+        "correct": "A",
+        "explanation": "He checks because he does not want to promise something incorrect."
+      },
+      {
+        "prompt": "Welke klanten zijn er volgens de tekst?",
+        "options": {
+          "A": "Alleen mensen die meteen kopen.",
+          "B": "Mensen met verschillende wensen.",
+          "C": "Alleen mensen die kleding ruilen."
+        },
+        "correct": "B",
+        "explanation": "Some customers browse; others immediately want help."
+      },
+      {
+        "prompt": "Wanneer wordt de reparatie vergoed?",
+        "options": {
+          "A": "Als de klant boos is.",
+          "B": "Als de winkel gesloten is.",
+          "C": "Als het onder de garantie valt."
+        },
+        "correct": "C",
+        "explanation": "Indien introduces the condition that warranty coverage applies."
+      },
+      {
+        "prompt": "Wat vindt de bedrijfsleider belangrijk?",
+        "options": {
+          "A": "Een goede oplossing voor het probleem.",
+          "B": "Zo snel mogelijk een nieuw product verkopen.",
+          "C": "Geen vragen van klanten beantwoorden."
+        },
+        "correct": "A",
+        "explanation": "The manager values a good resolution and customer trust."
+      }
+    ]
+  },
+  {
+    "id": "L05",
+    "title": "Een beurs organiseren",
+    "theme": "Work · event planning",
+    "source_note": "Original practice text inspired by the 2024 public NT2 Programma I booklet themes; not an official exam passage or question set.",
+    "level": "B1 bridge",
+    "estimated_minutes": 15,
+    "reading": "Een ondernemer wil zijn producten op een beurs presenteren. Hij moet eerst beslissen hoeveel ruimte hij nodig heeft. Daarbij houdt hij rekening met het verwachte aantal bezoekers, het budget en de grootte van zijn producten.\n\nDe organisatie biedt verschillende soorten stands aan. Een kleine stand is goedkoper, maar er is minder ruimte om met klanten te spreken. Een grotere stand kost meer, maar biedt extra mogelijkheden. Daarom vraagt de ondernemer vooraf informatie over de voorwaarden.\n\nTijdens de voorbereiding ontdekt hij dat de stand dicht bij de ingang kan komen. Dat lijkt aantrekkelijk, hoewel de ruimte iets duurder is. Hij besluit bovendien goede verlichting en duidelijke borden te gebruiken, zodat bezoekers zijn producten makkelijk vinden.\n\nUiteindelijk kiest hij niet voor de grootste stand. Hij houdt geld over voor personeel en uitnodigingen. Hij hoopt dat deze keuze aan een goed resultaat bijdraagt.",
+    "word_ids": [
+      "rekening-houden-met",
+      "vooraf",
+      "voorwaarden",
+      "hoewel",
+      "bovendien",
+      "zodat",
+      "uiteindelijk",
+      "bijdragen-aan",
+      "resultaat"
+    ],
+    "questions": [
+      {
+        "prompt": "Waar houdt de ondernemer rekening mee?",
+        "options": {
+          "A": "Alleen met de kleur van de muren.",
+          "B": "Met bezoekers, budget en productgrootte.",
+          "C": "Alleen met het aantal medewerkers."
+        },
+        "correct": "B",
+        "explanation": "Three factors are given: visitors, budget, and product size."
+      },
+      {
+        "prompt": "Wat is een voordeel van een grotere stand?",
+        "options": {
+          "A": "Er is meer ruimte.",
+          "B": "De huur is altijd lager.",
+          "C": "Er zijn minder bezoekers."
+        },
+        "correct": "A",
+        "explanation": "The larger stand offers more space, even though it costs more."
+      },
+      {
+        "prompt": "Waarom gebruikt hij duidelijke borden?",
+        "options": {
+          "A": "Omdat hij geen producten heeft.",
+          "B": "Om minder personeel te betalen.",
+          "C": "Zodat bezoekers de producten makkelijk vinden."
+        },
+        "correct": "C",
+        "explanation": "Zodat marks the intended result: making products easy to find."
+      },
+      {
+        "prompt": "Waarom kiest hij niet de grootste stand?",
+        "options": {
+          "A": "Hij wil geld overhouden voor andere kosten.",
+          "B": "Hij mag geen beurs bezoeken.",
+          "C": "Hij wil minder producten meenemen."
+        },
+        "correct": "A",
+        "explanation": "He saves money for staff and invitations."
+      }
+    ]
+  },
+  {
+    "id": "L06",
+    "title": "Opleiding en praktijk",
+    "theme": "Education · internship",
+    "source_note": "Original practice text inspired by the 2023 public NT2 Programma I booklet themes; not an official exam passage or question set.",
+    "level": "B1 bridge",
+    "estimated_minutes": 16,
+    "reading": "Een mbo-opleiding bestaat vaak uit lessen op school en praktijkervaring bij een bedrijf. Studenten leren eerst de belangrijkste theorie. Vervolgens gebruiken ze die kennis tijdens hun stage.\n\nEen goede stageplek moet aansluiten op de opleiding. De student krijgt begeleiding van iemand die ervaring heeft met het beroep. Daarnaast bespreekt een docent regelmatig de voortgang. Zo kan de student op tijd om hulp vragen.\n\nSommige studenten vinden het moeilijk om werk, school en huiswerk te combineren. Het is daarom belangrijk om vooraf afspraken te maken over werktijden en opdrachten. Indien een student het gewenste resultaat niet behaalt, kan de school extra begeleiding aanbieden.\n\nAan het einde van de stage worden de werkzaamheden beoordeeld. De student ontvangt een schriftelijke beoordeling. Het is mogelijk dat er nog verbeterpunten zijn, hoewel de stage als geheel voldoende was.",
+    "word_ids": [
+      "stage",
+      "opleiding",
+      "vervolgens",
+      "aansluiten-op",
+      "begeleiding",
+      "daarnaast",
+      "voortgang",
+      "indien",
+      "beoordeling",
+      "voldoende"
+    ],
+    "questions": [
+      {
+        "prompt": "Wat doen studenten na het leren van theorie?",
+        "options": {
+          "A": "Ze passen de kennis toe tijdens de stage.",
+          "B": "Ze stoppen met de opleiding.",
+          "C": "Ze beoordelen hun eigen docent."
+        },
+        "correct": "A",
+        "explanation": "Vervolgens introduces the use of knowledge in practical work."
+      },
+      {
+        "prompt": "Wie bespreekt de voortgang?",
+        "options": {
+          "A": "Alle klanten.",
+          "B": "Een docent.",
+          "C": "De buschauffeur."
+        },
+        "correct": "B",
+        "explanation": "A teacher regularly reviews student progress."
+      },
+      {
+        "prompt": "Wat kan gebeuren als een student onvoldoende presteert?",
+        "options": {
+          "A": "Hij moet altijd meteen stoppen.",
+          "B": "De stage wordt automatisch verlengd.",
+          "C": "De school kan extra begeleiding bieden."
+        },
+        "correct": "C",
+        "explanation": "The school can offer additional support if results fall short."
+      },
+      {
+        "prompt": "Wat betekent een voldoende stage met verbeterpunten?",
+        "options": {
+          "A": "Dat de student alles perfect heeft gedaan.",
+          "B": "Dat de stage is geslaagd, maar verbetering mogelijk blijft.",
+          "C": "Dat er geen schriftelijke beoordeling is."
+        },
+        "correct": "B",
+        "explanation": "Hoewel signals the contrast: a passing stage can still have points to improve."
+      }
+    ]
+  },
+  {
+    "id": "L07",
+    "title": "Werkafspraken en vrije tijd",
+    "theme": "Work · employment conditions",
+    "source_note": "Original practice text inspired by the 2023 public NT2 Programma I booklet themes; not an official exam passage or question set.",
+    "level": "B1 bridge",
+    "estimated_minutes": 17,
+    "reading": "Een bedrijf wil de werktijden van medewerkers veranderen. Volgens de directie is dat nodig omdat steeds meer klanten op zaterdag hulp willen. Niet alle werknemers zijn het echter met het plan eens.\n\nDe ondernemingsraad spreekt namens het personeel met de werkgever. De raad vraagt waarom de nieuwe planning nodig is en welke gevolgen deze heeft. Bovendien wil de raad weten of medewerkers met jonge kinderen genoeg tijd krijgen om hun situatie aan te passen.\n\nDe werkgever moet het voorstel schriftelijk toelichten. Vervolgens bespreken beide partijen mogelijke oplossingen. Een medewerker stelt voor om zaterdagdiensten vrijwillig te maken. Een ander vindt dat medewerkers die in het weekend werken een vergoeding moeten krijgen.\n\nDe directie neemt nog geen definitief besluit. Eerst wil zij de verschillende voorstellen beoordelen en rekening houden met de arbeidsvoorwaarden die al zijn afgesproken.",
+    "word_ids": [
+      "werkgever",
+      "werknemer",
+      "echter",
+      "ondernemingsraad",
+      "gevolg",
+      "bovendien",
+      "schriftelijk",
+      "vervolgens",
+      "vergoeding",
+      "besluit",
+      "arbeidsvoorwaarden"
+    ],
+    "questions": [
+      {
+        "prompt": "Waarom wil de directie werktijden veranderen?",
+        "options": {
+          "A": "Meer klanten hebben hulp nodig op zaterdag.",
+          "B": "Het bedrijf gaat volledig sluiten.",
+          "C": "Iedere medewerker wil minder uren."
+        },
+        "correct": "A",
+        "explanation": "The reason is increasing Saturday demand."
+      },
+      {
+        "prompt": "Wat doet de ondernemingsraad?",
+        "options": {
+          "A": "De raad verkoopt producten.",
+          "B": "De raad spreekt namens het personeel.",
+          "C": "De raad beslist over alle salarissen."
+        },
+        "correct": "B",
+        "explanation": "The works council represents staff in discussions with the employer."
+      },
+      {
+        "prompt": "Wat wil de raad onder andere weten?",
+        "options": {
+          "A": "Of iedereen op maandag vrij is.",
+          "B": "Hoeveel winkels er zijn.",
+          "C": "Welke gevolgen het plan heeft."
+        },
+        "correct": "C",
+        "explanation": "The council asks about consequences, including family circumstances."
+      },
+      {
+        "prompt": "Heeft de directie al een definitief besluit genomen?",
+        "options": {
+          "A": "Nee, er volgt eerst een beoordeling.",
+          "B": "Ja, alle diensten zijn verplicht.",
+          "C": "Ja, maar alleen voor nieuwe medewerkers."
+        },
+        "correct": "A",
+        "explanation": "The directorate has not yet taken a final decision."
+      }
+    ]
+  },
+  {
+    "id": "L08",
+    "title": "Vrijwilliger worden",
+    "theme": "Daily life · volunteering",
+    "source_note": "Original practice text inspired by the 2023 public NT2 Programma I booklet themes; not an official exam passage or question set.",
+    "level": "B1 bridge",
+    "estimated_minutes": 17,
+    "reading": "Een organisatie zoekt vrijwilligers die elke week een paar uur iemand willen ondersteunen. Deze vrijwilligers worden buddy genoemd. Ze bezoeken mensen die behoefte hebben aan gezelschap of hulp bij dagelijkse activiteiten.\n\nWie buddy wil worden, moet zich eerst aanmelden voor een kennismakingsgesprek. De organisatie beoordeelt daarna of de kandidaat geschikt is. Ervaring in de zorg is geen voorwaarde. Wel moeten kandidaten bereid zijn om een training te volgen en regelmatig contact te houden met de coördinator.\n\nTijdens de training oefenen de deelnemers hoe ze duidelijke afspraken maken en hoe ze grenzen aangeven. Bovendien leren ze wat ze moeten doen als een situatie moeilijk wordt. Kosten die vrijwilligers voor het werk maken, kunnen onder bepaalde voorwaarden worden vergoed.\n\nEen buddy werkt zelfstandig, maar staat er niet alleen voor. Indien er een probleem ontstaat, kan hij of zij advies vragen. Uiteindelijk beslist de cliënt welke activiteiten belangrijk zijn.",
+    "word_ids": [
+      "aanvragen",
+      "aanmelden",
+      "beoordelen",
+      "voorwaarde",
+      "regelmatig",
+      "bovendien",
+      "voorwaarden",
+      "vergoeden",
+      "zelfstandig",
+      "indien",
+      "uiteindelijk"
+    ],
+    "questions": [
+      {
+        "prompt": "Wat is geen voorwaarde om buddy te worden?",
+        "options": {
+          "A": "Regelmatig contact met de coördinator.",
+          "B": "Ervaring in de zorg.",
+          "C": "Een training willen volgen."
+        },
+        "correct": "B",
+        "explanation": "The passage explicitly says healthcare experience is not required."
+      },
+      {
+        "prompt": "Wat leren deelnemers tijdens de training?",
+        "options": {
+          "A": "Afspraken maken en grenzen aangeven.",
+          "B": "Een verkoopplan schrijven.",
+          "C": "Met een bus rijden."
+        },
+        "correct": "A",
+        "explanation": "The training teaches clear agreements and boundaries."
+      },
+      {
+        "prompt": "Wanneer kunnen kosten worden vergoed?",
+        "options": {
+          "A": "Altijd, zonder enige regel.",
+          "B": "Alleen als de vrijwilliger ziek is.",
+          "C": "Onder bepaalde voorwaarden."
+        },
+        "correct": "C",
+        "explanation": "Reimbursement depends on specific conditions."
+      },
+      {
+        "prompt": "Wie bepaalt uiteindelijk de belangrijkste activiteiten?",
+        "options": {
+          "A": "De cliënt.",
+          "B": "De docent.",
+          "C": "De werkgever."
+        },
+        "correct": "A",
+        "explanation": "The client ultimately decides what matters."
+      }
+    ]
+  },
+  {
+    "id": "L09",
+    "title": "Verschillende wensen op de arbeidsmarkt",
+    "theme": "Work · employment",
+    "source_note": "Original practice text inspired by the 2024 public NT2 Programma I booklet themes; not an official exam passage or question set.",
+    "level": "B1 bridge",
+    "estimated_minutes": 18,
+    "reading": "Een onderzoeksbureau heeft mensen gevraagd wat zij belangrijk vinden bij het zoeken naar werk. Uit de resultaten blijkt dat leeftijd een rol kan spelen, hoewel niet iedereen binnen dezelfde leeftijdsgroep dezelfde wensen heeft.\n\nVeel jongere deelnemers vinden zekerheid en een vast inkomen belangrijk. Sommige oudere deelnemers kiezen juist vaker voor interessant werk en mogelijkheden om nieuwe dingen te leren. Het verschil heeft mogelijk te maken met de levensfase waarin mensen zich bevinden.\n\nEen onderzoeker waarschuwt werkgevers echter voor eenvoudige conclusies. Een leeftijd zegt niet alles over iemands voorkeuren. Daarnaast veranderen wensen tijdens een loopbaan. Wie net een huis koopt, houdt misschien meer rekening met salaris. Wie al veel werkervaring heeft, wil mogelijk andere vaardigheden ontwikkelen.\n\nDe onderzoeker adviseert bedrijven om tijdens sollicitatiegesprekken gerichte vragen te stellen. Zo kunnen zij beter beoordelen welke arbeidsvoorwaarden voor een kandidaat werkelijk belangrijk zijn.",
+    "word_ids": [
+      "onderzoek",
+      "blijken",
+      "hoewel",
+      "verschil",
+      "echter",
+      "daarnaast",
+      "rekening-houden-met",
+      "ervaring",
+      "beoordelen",
+      "arbeidsvoorwaarden",
+      "waarschijnlijk"
+    ],
+    "questions": [
+      {
+        "prompt": "Wat blijkt uit het onderzoek?",
+        "options": {
+          "A": "Iedereen wil hetzelfde soort werk.",
+          "B": "Leeftijd kan invloed hebben op werkvoorkeuren.",
+          "C": "Oudere werknemers willen nooit leren."
+        },
+        "correct": "B",
+        "explanation": "Age can play a role, but individual preferences vary."
+      },
+      {
+        "prompt": "Waarom waarschuwt de onderzoeker voor eenvoudige conclusies?",
+        "options": {
+          "A": "Leeftijd zegt niet alles over iemands wensen.",
+          "B": "Het onderzoek bevat geen mensen.",
+          "C": "Werkgevers mogen geen vragen stellen."
+        },
+        "correct": "A",
+        "explanation": "Generalizations by age miss individual variation."
+      },
+      {
+        "prompt": "Wat kan iemands wensen veranderen?",
+        "options": {
+          "A": "Alleen de naam van het bedrijf.",
+          "B": "De kleur van de vacature.",
+          "C": "De levensfase en persoonlijke situatie."
+        },
+        "correct": "C",
+        "explanation": "The text links preferences to life stage and circumstances."
+      },
+      {
+        "prompt": "Wat adviseert de onderzoeker werkgevers?",
+        "options": {
+          "A": "Alle kandidaten hetzelfde aanbieden.",
+          "B": "Gerichte vragen stellen tijdens gesprekken.",
+          "C": "Geen arbeidsvoorwaarden bespreken."
+        },
+        "correct": "B",
+        "explanation": "Targeted questions help employers understand what matters to candidates."
+      }
+    ]
+  },
+  {
+    "id": "L10",
+    "title": "Een besluit in het bedrijf",
+    "theme": "Work · formal rules",
+    "source_note": "Original practice text inspired by the 2023 public NT2 Programma I booklet themes; not an official exam passage or question set.",
+    "level": "B1 bridge",
+    "estimated_minutes": 19,
+    "reading": "De directie van een onderneming wil een nieuw systeem invoeren om diensten te plannen. Het systeem zou volgens de werkgever tijd besparen, maar medewerkers maken zich zorgen over hun persoonsgegevens.\n\nDe ondernemingsraad vraagt schriftelijk om een toelichting. Zij wil weten welke informatie het systeem verzamelt, wie toegang krijgt en hoe lang gegevens bewaard blijven. De directie mag het onderwerp niet zomaar overslaan: bij bepaalde regelingen is instemming van de ondernemingsraad nodig.\n\nTijdens een overleg legt de werkgever uit dat uitsluitend werknemers van de personeelsafdeling toegang krijgen tot de gegevens. Bovendien wil het bedrijf medewerkers vooraf informeren over de veranderingen. De raad vindt dit een verbetering, hoewel nog niet op alle vragen antwoord is gegeven.\n\nBeide partijen spreken af over twee weken opnieuw bijeen te komen. Pas nadat de ontbrekende informatie beschikbaar is, zal de raad over het voorstel beslissen. Tot die tijd wordt het oude systeem gebruikt.",
+    "word_ids": [
+      "invoeren",
+      "werkgever",
+      "schriftelijk",
+      "toelichting",
+      "gegevens",
+      "instemming",
+      "uitsluitend",
+      "bovendien",
+      "vooraf",
+      "hoewel",
+      "beslissen",
+      "beschikbaar"
+    ],
+    "questions": [
+      {
+        "prompt": "Waarom maakt het personeel zich zorgen?",
+        "options": {
+          "A": "Over de kleur van het systeem.",
+          "B": "Over hun persoonsgegevens.",
+          "C": "Over het aantal vergaderingen."
+        },
+        "correct": "B",
+        "explanation": "Employees are concerned about personal data."
+      },
+      {
+        "prompt": "Wat vraagt de ondernemingsraad?",
+        "options": {
+          "A": "Een uitleg over het nieuwe systeem.",
+          "B": "Een andere kantoorlocatie.",
+          "C": "Een extra vakantiedag voor iedereen."
+        },
+        "correct": "A",
+        "explanation": "They request a written explanation of data access and retention."
+      },
+      {
+        "prompt": "Wie krijgt volgens het plan toegang tot de gegevens?",
+        "options": {
+          "A": "Alle klanten.",
+          "B": "Iedere bezoeker.",
+          "C": "Alleen medewerkers van personeelszaken."
+        },
+        "correct": "C",
+        "explanation": "Uitsluitend means only; access is limited to HR staff."
+      },
+      {
+        "prompt": "Wanneer beslist de ondernemingsraad?",
+        "options": {
+          "A": "Voordat het overleg begint.",
+          "B": "Nadat de ontbrekende informatie beschikbaar is.",
+          "C": "Zodra er nieuwe klanten komen."
+        },
+        "correct": "B",
+        "explanation": "They will decide only after missing information is provided."
+      }
+    ]
+  },
+  {
+    "id": "L11",
+    "title": "De voorwaarden van een jaarabonnement",
+    "theme": "Daily life · rules",
+    "source_note": "Original practice text inspired by the 2024 public NT2 Programma I booklet themes; not an official exam passage or question set.",
+    "level": "B1 bridge",
+    "estimated_minutes": 21,
+    "reading": "Een sportcentrum verkoopt abonnementen waarmee leden zo vaak als ze willen kunnen trainen. Een jaarabonnement is geldig gedurende twaalf maanden vanaf de dag van aankoop. Leden betalen elke maand hetzelfde bedrag, tenzij zij een speciale actieprijs hebben gekregen.\n\nVoor toegang tot het gebouw moeten leden hun persoonlijke pas laten zien. De pas mag niet worden uitgeleend. Indien een lid zijn pas vergeet, kan hij bij de receptie een tijdelijke pas aanvragen. Daarvoor moet hij zich kunnen legitimeren. Bij verlies van de pas worden administratiekosten in rekening gebracht.\n\nEen lid kan het abonnement tijdens de minimale looptijd niet zomaar beëindigen. Er zijn echter uitzonderingen, bijvoorbeeld wanneer het lid langdurig naar het buitenland verhuist. In dat geval moet de klant schriftelijk bewijs indienen. De medewerker van het sportcentrum beoordeelt de aanvraag.\n\nExtra groepslessen zijn niet automatisch inbegrepen. Voor sommige lessen geldt een aanvullende vergoeding. Bovendien kunnen bepaalde lessen worden geannuleerd wanneer te weinig deelnemers zich aanmelden. De actuele voorwaarden zijn beschikbaar op de website.",
+    "word_ids": [
+      "geldig",
+      "tenzij",
+      "indien",
+      "aanvragen",
+      "legitimeren",
+      "voorwaarden",
+      "echter",
+      "uitzondering",
+      "schriftelijk",
+      "indienen",
+      "beoordelen",
+      "vergoeding",
+      "bovendien",
+      "beschikbaar"
+    ],
+    "questions": [
+      {
+        "prompt": "Hoe lang is een jaarabonnement minimaal geldig?",
+        "options": {
+          "A": "Zes maanden.",
+          "B": "Twaalf maanden.",
+          "C": "Tot de eerstvolgende zomer."
+        },
+        "correct": "B",
+        "explanation": "The subscription lasts twelve months from purchase."
+      },
+      {
+        "prompt": "Wat moet een lid doen om een tijdelijke pas te krijgen?",
+        "options": {
+          "A": "Zich bij de receptie kunnen legitimeren.",
+          "B": "Een nieuwe jaarbetaling doen.",
+          "C": "Een sportles organiseren."
+        },
+        "correct": "A",
+        "explanation": "A member who forgot the pass can request a temporary pass upon identification."
+      },
+      {
+        "prompt": "Wanneer kan een lid mogelijk eerder stoppen?",
+        "options": {
+          "A": "Als er een leuke les is.",
+          "B": "Als de receptie druk is.",
+          "C": "Als een geldige uitzondering van toepassing is."
+        },
+        "correct": "C",
+        "explanation": "There are exceptions such as a long-term move abroad, subject to evidence."
+      },
+      {
+        "prompt": "Wat staat er over groepslessen?",
+        "options": {
+          "A": "Ze zijn altijd allemaal gratis.",
+          "B": "Voor sommige lessen betaalt men extra.",
+          "C": "Er is nooit een minimumaantal deelnemers."
+        },
+        "correct": "B",
+        "explanation": "Some extra group classes require additional payment."
+      }
+    ]
+  },
+  {
+    "id": "L12",
+    "title": "Regels voor een toets op school",
+    "theme": "Education · exam rules",
+    "source_note": "Original practice text inspired by the 2023 public NT2 Programma I booklet themes; not an official exam passage or question set.",
+    "level": "B1 bridge",
+    "estimated_minutes": 23,
+    "reading": "Een opleidingsinstituut organiseert ieder voorjaar examens. Kandidaten moeten zich uiterlijk drie weken voor het examen inschrijven. Daarna ontvangen zij schriftelijk een bevestiging met de locatie, de begintijd en de regels voor deelname.\n\nIedere kandidaat moet zich bij aankomst legitimeren met een geldig identiteitsbewijs. Wie te laat komt, mag niet automatisch deelnemen. De examenleider beslist in dat geval of deelname nog mogelijk is. Mobiele telefoons moeten vóór het examen worden uitgeschakeld en opgeborgen. Tijdens het examen mogen deelnemers uitsluitend de toegestane hulpmiddelen gebruiken.\n\nIndien een kandidaat ziek is, kan het examen onder bepaalde voorwaarden worden verplaatst. De kandidaat moet de afwezigheid tijdig melden en de gevraagde documenten indienen. Een nieuw tijdstip is afhankelijk van de beschikbare plaatsen.\n\nNa afloop krijgen de kandidaten bericht wanneer hun resultaten bekend worden gemaakt. Wie het niet eens is met een beoordeling, kan binnen tien werkdagen schriftelijk bezwaar maken. De school onderzoekt het bezwaar en deelt daarna een besluit mee.\n\nVoorbeeld: Sara komt vijf minuten na de begintijd aan. Zij mag niet zelf beslissen dat ze toch kan beginnen. Eerst moet ze toestemming vragen aan de examenleider.",
+    "word_ids": [
+      "inschrijven",
+      "schriftelijk",
+      "geldig",
+      "legitimeren",
+      "beslissen",
+      "uitsluitend",
+      "indien",
+      "voorwaarden",
+      "tijdig",
+      "indienen",
+      "afhankelijk-van",
+      "beoordeling",
+      "besluit",
+      "toestemming"
+    ],
+    "questions": [
+      {
+        "prompt": "Wie bepaalt of een late kandidaat nog mag deelnemen?",
+        "options": {
+          "A": "De kandidaat zelf.",
+          "B": "De examenleider.",
+          "C": "Een andere student."
+        },
+        "correct": "B",
+        "explanation": "The exam supervisor makes the decision."
+      },
+      {
+        "prompt": "Welke hulpmiddelen zijn toegestaan?",
+        "options": {
+          "A": "Alle apparaten van thuis.",
+          "B": "Alle woordenboeken die bestaan.",
+          "C": "Alleen officieel toegestane hulpmiddelen."
+        },
+        "correct": "C",
+        "explanation": "Uitsluitend means only; unauthorized aids are not allowed."
+      },
+      {
+        "prompt": "Wat moet een zieke kandidaat doen?",
+        "options": {
+          "A": "De afwezigheid tijdig melden en documenten indienen.",
+          "B": "Nooit meer examen doen.",
+          "C": "Alle medestudenten berichten."
+        },
+        "correct": "A",
+        "explanation": "Timely notice and required documents are conditions for rescheduling."
+      },
+      {
+        "prompt": "Wat kan een kandidaat doen bij onenigheid over de beoordeling?",
+        "options": {
+          "A": "De uitslag zelf veranderen.",
+          "B": "Binnen tien werkdagen schriftelijk bezwaar maken.",
+          "C": "De pas van een andere kandidaat gebruiken."
+        },
+        "correct": "B",
+        "explanation": "The document provides a ten-working-day written appeal procedure."
+      }
+    ]
+  }
+]

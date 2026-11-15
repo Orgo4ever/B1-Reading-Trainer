@@ -1,0 +1,1503 @@
+[
+  {
+    "id": "daarnaast",
+    "dutch": "daarnaast",
+    "english": "in addition / besides",
+    "example": "Daarnaast krijgt u meer informatie.",
+    "theme": "connectors",
+    "source_years": [
+      2023
+    ],
+    "priority": 0
+  },
+  {
+    "id": "plaatsvinden",
+    "dutch": "plaatsvinden",
+    "english": "to take place",
+    "example": "De bijeenkomst vindt morgen plaats.",
+    "theme": "connectors",
+    "source_years": [],
+    "priority": 0
+  },
+  {
+    "id": "vooraf",
+    "dutch": "vooraf",
+    "english": "beforehand",
+    "example": "Meld u vooraf aan voor de cursus.",
+    "theme": "conditions",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 0
+  },
+  {
+    "id": "zich-aanmelden",
+    "dutch": "zich aanmelden",
+    "english": "to register / sign up",
+    "example": "U kunt zich online aanmelden.",
+    "theme": "conditions",
+    "source_years": [],
+    "priority": 0
+  },
+  {
+    "id": "twijfelen",
+    "dutch": "twijfelen",
+    "english": "to hesitate / have doubts",
+    "example": "Zij twijfelt over de opleiding.",
+    "theme": "connectors",
+    "source_years": [],
+    "priority": 0
+  },
+  {
+    "id": "af-en-toe",
+    "dutch": "af en toe",
+    "english": "occasionally",
+    "example": "Af en toe werk ik in het weekend.",
+    "theme": "connectors",
+    "source_years": [
+      2024
+    ],
+    "priority": 0
+  },
+  {
+    "id": "regelmatig",
+    "dutch": "regelmatig",
+    "english": "regularly",
+    "example": "We bespreken de resultaten regelmatig.",
+    "theme": "connectors",
+    "source_years": [
+      2024
+    ],
+    "priority": 0
+  },
+  {
+    "id": "uiteindelijk",
+    "dutch": "uiteindelijk",
+    "english": "eventually / in the end",
+    "example": "Uiteindelijk kiest hij een andere baan.",
+    "theme": "connectors",
+    "source_years": [],
+    "priority": 0
+  },
+  {
+    "id": "indien",
+    "dutch": "indien",
+    "english": "if / provided that",
+    "example": "Indien u vragen heeft, kunt u bellen.",
+    "theme": "conditions",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 1
+  },
+  {
+    "id": "echter",
+    "dutch": "echter",
+    "english": "however",
+    "example": "De lessen zijn gratis, echter niet verplicht.",
+    "theme": "connectors",
+    "source_years": [
+      2024
+    ],
+    "priority": 1
+  },
+  {
+    "id": "hoewel",
+    "dutch": "hoewel",
+    "english": "although",
+    "example": "Hoewel het regent, gaan we naar buiten.",
+    "theme": "connectors",
+    "source_years": [
+      2024
+    ],
+    "priority": 1
+  },
+  {
+    "id": "tenzij",
+    "dutch": "tenzij",
+    "english": "unless",
+    "example": "U kunt komen, tenzij u ziek bent.",
+    "theme": "conditions",
+    "source_years": [
+      2024
+    ],
+    "priority": 1
+  },
+  {
+    "id": "terwijl",
+    "dutch": "terwijl",
+    "english": "while / whereas",
+    "example": "Zij werkt terwijl hij studeert.",
+    "theme": "connectors",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 1
+  },
+  {
+    "id": "zodat",
+    "dutch": "zodat",
+    "english": "so that",
+    "example": "We oefenen zodat iedereen het begrijpt.",
+    "theme": "connectors",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 1
+  },
+  {
+    "id": "daarom",
+    "dutch": "daarom",
+    "english": "therefore / that is why",
+    "example": "Het is druk, daarom wachten we.",
+    "theme": "connectors",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 1
+  },
+  {
+    "id": "omdat",
+    "dutch": "omdat",
+    "english": "because",
+    "example": "Ik ga niet omdat ik moet werken.",
+    "theme": "connectors",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 1
+  },
+  {
+    "id": "doordat",
+    "dutch": "doordat",
+    "english": "because / due to the fact that",
+    "example": "Doordat de bus laat is, kom ik later.",
+    "theme": "connectors",
+    "source_years": [
+      2023
+    ],
+    "priority": 1
+  },
+  {
+    "id": "vandaar",
+    "dutch": "vandaar",
+    "english": "hence / that explains why",
+    "example": "Het is glad; vandaar de vertraging.",
+    "theme": "connectors",
+    "source_years": [],
+    "priority": 1
+  },
+  {
+    "id": "desondanks",
+    "dutch": "desondanks",
+    "english": "nevertheless",
+    "example": "Het was moeilijk; desondanks slaagde ze.",
+    "theme": "connectors",
+    "source_years": [],
+    "priority": 1
+  },
+  {
+    "id": "ondanks",
+    "dutch": "ondanks",
+    "english": "despite",
+    "example": "Ondanks de drukte bleef de winkel open.",
+    "theme": "connectors",
+    "source_years": [
+      2023
+    ],
+    "priority": 1
+  },
+  {
+    "id": "bovendien",
+    "dutch": "bovendien",
+    "english": "furthermore / moreover",
+    "example": "Bovendien ontvangt u korting.",
+    "theme": "connectors",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 1
+  },
+  {
+    "id": "vervolgens",
+    "dutch": "vervolgens",
+    "english": "then / subsequently",
+    "example": "Vervolgens leest u de voorwaarden.",
+    "theme": "connectors",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 1
+  },
+  {
+    "id": "daarna",
+    "dutch": "daarna",
+    "english": "after that",
+    "example": "Daarna levert u het formulier in.",
+    "theme": "connectors",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 1
+  },
+  {
+    "id": "voordat",
+    "dutch": "voordat",
+    "english": "before",
+    "example": "Lees dit voordat u beslist.",
+    "theme": "connectors",
+    "source_years": [
+      2023
+    ],
+    "priority": 1
+  },
+  {
+    "id": "nadat",
+    "dutch": "nadat",
+    "english": "after",
+    "example": "Nadat u betaald heeft, krijgt u toegang.",
+    "theme": "connectors",
+    "source_years": [
+      2023
+    ],
+    "priority": 1
+  },
+  {
+    "id": "zodra",
+    "dutch": "zodra",
+    "english": "as soon as",
+    "example": "Zodra de les begint, sluiten de deuren.",
+    "theme": "connectors",
+    "source_years": [
+      2023
+    ],
+    "priority": 1
+  },
+  {
+    "id": "zolang",
+    "dutch": "zolang",
+    "english": "as long as",
+    "example": "U kunt blijven zolang u rustig bent.",
+    "theme": "conditions",
+    "source_years": [
+      2023
+    ],
+    "priority": 1
+  },
+  {
+    "id": "zoals",
+    "dutch": "zoals",
+    "english": "such as / like",
+    "example": "We verkopen producten zoals brood en fruit.",
+    "theme": "connectors",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 1
+  },
+  {
+    "id": "bijvoorbeeld",
+    "dutch": "bijvoorbeeld",
+    "english": "for example",
+    "example": "Bijvoorbeeld: een cursus op dinsdag.",
+    "theme": "connectors",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 1
+  },
+  {
+    "id": "namelijk",
+    "dutch": "namelijk",
+    "english": "namely / you see",
+    "example": "Ik ga niet mee; ik moet namelijk werken.",
+    "theme": "connectors",
+    "source_years": [
+      2023
+    ],
+    "priority": 1
+  },
+  {
+    "id": "immers",
+    "dutch": "immers",
+    "english": "after all / indeed",
+    "example": "U moet oefenen; dat is immers belangrijk.",
+    "theme": "connectors",
+    "source_years": [
+      2023
+    ],
+    "priority": 1
+  },
+  {
+    "id": "tegelijkertijd",
+    "dutch": "tegelijkertijd",
+    "english": "at the same time",
+    "example": "De winkel is tegelijkertijd een afhaalpunt.",
+    "theme": "connectors",
+    "source_years": [],
+    "priority": 1
+  },
+  {
+    "id": "inmiddels",
+    "dutch": "inmiddels",
+    "english": "by now / meanwhile",
+    "example": "Inmiddels zijn alle plaatsen bezet.",
+    "theme": "connectors",
+    "source_years": [
+      2024
+    ],
+    "priority": 1
+  },
+  {
+    "id": "ter-sprake-komen",
+    "dutch": "ter sprake komen",
+    "english": "to be discussed",
+    "example": "De planning komt tijdens het overleg ter sprake.",
+    "theme": "connectors",
+    "source_years": [],
+    "priority": 1
+  },
+  {
+    "id": "betreffen",
+    "dutch": "betreffen",
+    "english": "to concern / relate to",
+    "example": "De regels betreffen alle medewerkers.",
+    "theme": "formal",
+    "source_years": [],
+    "priority": 2
+  },
+  {
+    "id": "betrekking-hebben-op",
+    "dutch": "betrekking hebben op",
+    "english": "to relate to",
+    "example": "De voorwaarden hebben betrekking op de cursus.",
+    "theme": "formal",
+    "source_years": [],
+    "priority": 2
+  },
+  {
+    "id": "ten-aanzien-van",
+    "dutch": "ten aanzien van",
+    "english": "with regard to",
+    "example": "Er zijn regels ten aanzien van de veiligheid.",
+    "theme": "formal",
+    "source_years": [
+      2023
+    ],
+    "priority": 2
+  },
+  {
+    "id": "van-toepassing-zijn",
+    "dutch": "van toepassing zijn",
+    "english": "to apply / be applicable",
+    "example": "Deze regeling is op iedereen van toepassing.",
+    "theme": "formal",
+    "source_years": [],
+    "priority": 2
+  },
+  {
+    "id": "volgens",
+    "dutch": "volgens",
+    "english": "according to",
+    "example": "Volgens de docent begint de cursus om negen uur.",
+    "theme": "formal",
+    "source_years": [
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "blijken",
+    "dutch": "blijken",
+    "english": "to turn out / become apparent",
+    "example": "Uit onderzoek blijkt dat de aanpak werkt.",
+    "theme": "formal",
+    "source_years": [],
+    "priority": 2
+  },
+  {
+    "id": "voldoende",
+    "dutch": "voldoende",
+    "english": "sufficient / enough",
+    "example": "Er is voldoende tijd om te oefenen.",
+    "theme": "formal",
+    "source_years": [
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "echter-wel",
+    "dutch": "echter wel",
+    "english": "however, still",
+    "example": "De toegang is gratis, echter wel op afspraak.",
+    "theme": "formal",
+    "source_years": [
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "voorwaarde",
+    "dutch": "voorwaarde",
+    "english": "condition / requirement",
+    "example": "Een diploma is geen voorwaarde.",
+    "theme": "conditions",
+    "source_years": [
+      2023
+    ],
+    "priority": 1
+  },
+  {
+    "id": "voorwaarden",
+    "dutch": "voorwaarden",
+    "english": "terms / conditions",
+    "example": "Lees de voorwaarden van het abonnement.",
+    "theme": "conditions",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 1
+  },
+  {
+    "id": "verplicht",
+    "dutch": "verplicht",
+    "english": "mandatory / required",
+    "example": "Aanmelden is verplicht.",
+    "theme": "conditions",
+    "source_years": [
+      2024
+    ],
+    "priority": 1
+  },
+  {
+    "id": "verplichting",
+    "dutch": "verplichting",
+    "english": "obligation",
+    "example": "De werkgever heeft een verplichting.",
+    "theme": "conditions",
+    "source_years": [],
+    "priority": 1
+  },
+  {
+    "id": "toestemming",
+    "dutch": "toestemming",
+    "english": "permission",
+    "example": "U heeft toestemming van uw werkgever nodig.",
+    "theme": "conditions",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 1
+  },
+  {
+    "id": "geldig",
+    "dutch": "geldig",
+    "english": "valid",
+    "example": "Uw pas is nog een jaar geldig.",
+    "theme": "conditions",
+    "source_years": [
+      2024
+    ],
+    "priority": 1
+  },
+  {
+    "id": "geldigheid",
+    "dutch": "geldigheid",
+    "english": "validity",
+    "example": "Controleer de geldigheid van uw pas.",
+    "theme": "conditions",
+    "source_years": [
+      2024
+    ],
+    "priority": 1
+  },
+  {
+    "id": "weigeren",
+    "dutch": "weigeren",
+    "english": "to refuse",
+    "example": "U mag overwerk soms weigeren.",
+    "theme": "conditions",
+    "source_years": [],
+    "priority": 1
+  },
+  {
+    "id": "uitzondering",
+    "dutch": "uitzondering",
+    "english": "exception",
+    "example": "Er geldt een uitzondering voor jongeren.",
+    "theme": "conditions",
+    "source_years": [],
+    "priority": 1
+  },
+  {
+    "id": "uitsluitend",
+    "dutch": "uitsluitend",
+    "english": "exclusively / only",
+    "example": "De korting geldt uitsluitend voor studenten.",
+    "theme": "conditions",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 1
+  },
+  {
+    "id": "ten-minste",
+    "dutch": "ten minste",
+    "english": "at least",
+    "example": "U moet ten minste 18 jaar zijn.",
+    "theme": "conditions",
+    "source_years": [],
+    "priority": 1
+  },
+  {
+    "id": "maximaal",
+    "dutch": "maximaal",
+    "english": "at most / maximum",
+    "example": "U mag maximaal tien uur overwerken.",
+    "theme": "conditions",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 1
+  },
+  {
+    "id": "minimaal",
+    "dutch": "minimaal",
+    "english": "at least / minimum",
+    "example": "De cursus duurt minimaal drie weken.",
+    "theme": "conditions",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 1
+  },
+  {
+    "id": "schriftelijk",
+    "dutch": "schriftelijk",
+    "english": "in writing / written",
+    "example": "U ontvangt schriftelijk bericht.",
+    "theme": "conditions",
+    "source_years": [
+      2023
+    ],
+    "priority": 1
+  },
+  {
+    "id": "mondeling",
+    "dutch": "mondeling",
+    "english": "orally / spoken",
+    "example": "De uitleg wordt mondeling gegeven.",
+    "theme": "conditions",
+    "source_years": [
+      2023
+    ],
+    "priority": 1
+  },
+  {
+    "id": "indienen",
+    "dutch": "indienen",
+    "english": "to submit",
+    "example": "U moet de aanvraag vandaag indienen.",
+    "theme": "conditions",
+    "source_years": [
+      2023
+    ],
+    "priority": 1
+  },
+  {
+    "id": "aanvragen",
+    "dutch": "aanvragen",
+    "english": "to apply for / request",
+    "example": "U kunt verlof aanvragen.",
+    "theme": "conditions",
+    "source_years": [
+      2024
+    ],
+    "priority": 1
+  },
+  {
+    "id": "aanvraag",
+    "dutch": "aanvraag",
+    "english": "application / request",
+    "example": "Uw aanvraag is ontvangen.",
+    "theme": "conditions",
+    "source_years": [],
+    "priority": 1
+  },
+  {
+    "id": "besluit",
+    "dutch": "besluit",
+    "english": "decision",
+    "example": "De directie neemt binnenkort een besluit.",
+    "theme": "conditions",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 1
+  },
+  {
+    "id": "beslissen",
+    "dutch": "beslissen",
+    "english": "to decide",
+    "example": "De leidinggevende beslist over de aanvraag.",
+    "theme": "conditions",
+    "source_years": [],
+    "priority": 1
+  },
+  {
+    "id": "vaststellen",
+    "dutch": "vaststellen",
+    "english": "to establish / determine",
+    "example": "We stellen de planning samen vast.",
+    "theme": "conditions",
+    "source_years": [
+      2023
+    ],
+    "priority": 1
+  },
+  {
+    "id": "wijzigen",
+    "dutch": "wijzigen",
+    "english": "to change / amend",
+    "example": "De regels kunnen volgend jaar wijzigen.",
+    "theme": "conditions",
+    "source_years": [
+      2023
+    ],
+    "priority": 1
+  },
+  {
+    "id": "uitstellen",
+    "dutch": "uitstellen",
+    "english": "to postpone",
+    "example": "Het examen wordt mogelijk uitgesteld.",
+    "theme": "conditions",
+    "source_years": [],
+    "priority": 1
+  },
+  {
+    "id": "annuleren",
+    "dutch": "annuleren",
+    "english": "to cancel",
+    "example": "U kunt de afspraak online annuleren.",
+    "theme": "conditions",
+    "source_years": [],
+    "priority": 1
+  },
+  {
+    "id": "vergoeden",
+    "dutch": "vergoeden",
+    "english": "to reimburse / compensate",
+    "example": "De werkgever vergoedt de reiskosten.",
+    "theme": "conditions",
+    "source_years": [],
+    "priority": 1
+  },
+  {
+    "id": "vergoeding",
+    "dutch": "vergoeding",
+    "english": "compensation / reimbursement",
+    "example": "U ontvangt een vergoeding voor de kosten.",
+    "theme": "conditions",
+    "source_years": [],
+    "priority": 1
+  },
+  {
+    "id": "kosten",
+    "dutch": "kosten",
+    "english": "costs",
+    "example": "De kosten worden later betaald.",
+    "theme": "conditions",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 1
+  },
+  {
+    "id": "afhankelijk-van",
+    "dutch": "afhankelijk van",
+    "english": "dependent on",
+    "example": "De vergoeding is afhankelijk van uw contract.",
+    "theme": "conditions",
+    "source_years": [
+      2024
+    ],
+    "priority": 1
+  },
+  {
+    "id": "beschikbaar",
+    "dutch": "beschikbaar",
+    "english": "available",
+    "example": "De informatie is online beschikbaar.",
+    "theme": "conditions",
+    "source_years": [
+      2024
+    ],
+    "priority": 1
+  },
+  {
+    "id": "bijdragen-aan",
+    "dutch": "bijdragen aan",
+    "english": "to contribute to",
+    "example": "Iedereen kan bijdragen aan een goed resultaat.",
+    "theme": "work",
+    "source_years": [
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "werkgever",
+    "dutch": "werkgever",
+    "english": "employer",
+    "example": "De werkgever maakt de planning.",
+    "theme": "work",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "werknemer",
+    "dutch": "werknemer",
+    "english": "employee",
+    "example": "Een werknemer heeft recht op pauze.",
+    "theme": "work",
+    "source_years": [
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "medewerker",
+    "dutch": "medewerker",
+    "english": "staff member / employee",
+    "example": "Elke medewerker krijgt uitleg.",
+    "theme": "work",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "personeel",
+    "dutch": "personeel",
+    "english": "staff / personnel",
+    "example": "Het personeel werkt in verschillende teams.",
+    "theme": "work",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "arbeidsvoorwaarden",
+    "dutch": "arbeidsvoorwaarden",
+    "english": "employment conditions",
+    "example": "De arbeidsvoorwaarden staan in het contract.",
+    "theme": "work",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "werkzaamheden",
+    "dutch": "werkzaamheden",
+    "english": "work activities / duties",
+    "example": "De werkzaamheden verschillen per afdeling.",
+    "theme": "work",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "afdeling",
+    "dutch": "afdeling",
+    "english": "department",
+    "example": "Zij werkt op de afdeling inkoop.",
+    "theme": "work",
+    "source_years": [
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "vestiging",
+    "dutch": "vestiging",
+    "english": "branch / location",
+    "example": "Het bedrijf heeft drie vestigingen.",
+    "theme": "work",
+    "source_years": [
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "leidinggevende",
+    "dutch": "leidinggevende",
+    "english": "supervisor / manager",
+    "example": "Uw leidinggevende bespreekt het rooster.",
+    "theme": "work",
+    "source_years": [],
+    "priority": 2
+  },
+  {
+    "id": "begeleiding",
+    "dutch": "begeleiding",
+    "english": "guidance / support",
+    "example": "Nieuwe medewerkers krijgen begeleiding.",
+    "theme": "work",
+    "source_years": [
+      2023
+    ],
+    "priority": 2
+  },
+  {
+    "id": "begeleiden",
+    "dutch": "begeleiden",
+    "english": "to guide / support",
+    "example": "Een ervaren collega begeleidt u.",
+    "theme": "work",
+    "source_years": [
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "zelfstandig",
+    "dutch": "zelfstandig",
+    "english": "independently",
+    "example": "Hij kan zelfstandig werken.",
+    "theme": "work",
+    "source_years": [
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "ervaring",
+    "dutch": "ervaring",
+    "english": "experience",
+    "example": "Ervaring in een winkel is handig.",
+    "theme": "work",
+    "source_years": [
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "vaardigheid",
+    "dutch": "vaardigheid",
+    "english": "skill",
+    "example": "Lezen is een belangrijke vaardigheid.",
+    "theme": "education",
+    "source_years": [],
+    "priority": 2
+  },
+  {
+    "id": "opleiding",
+    "dutch": "opleiding",
+    "english": "education / training program",
+    "example": "De opleiding duurt een jaar.",
+    "theme": "education",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "stagelopen",
+    "dutch": "stagelopen",
+    "english": "to do an internship",
+    "example": "Studenten mogen bij een bedrijf stagelopen.",
+    "theme": "education",
+    "source_years": [],
+    "priority": 2
+  },
+  {
+    "id": "stage",
+    "dutch": "stage",
+    "english": "internship",
+    "example": "Tijdens de stage leert zij veel.",
+    "theme": "education",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "deelnemer",
+    "dutch": "deelnemer",
+    "english": "participant",
+    "example": "Elke deelnemer krijgt lesmateriaal.",
+    "theme": "education",
+    "source_years": [],
+    "priority": 2
+  },
+  {
+    "id": "inschrijven",
+    "dutch": "inschrijven",
+    "english": "to enroll / register",
+    "example": "U kunt zich bij de school inschrijven.",
+    "theme": "education",
+    "source_years": [],
+    "priority": 2
+  },
+  {
+    "id": "inschrijving",
+    "dutch": "inschrijving",
+    "english": "registration / enrollment",
+    "example": "De inschrijving sluit volgende week.",
+    "theme": "education",
+    "source_years": [],
+    "priority": 2
+  },
+  {
+    "id": "beoordelen",
+    "dutch": "beoordelen",
+    "english": "to assess / evaluate",
+    "example": "De docent beoordeelt de opdracht.",
+    "theme": "education",
+    "source_years": [
+      2023
+    ],
+    "priority": 2
+  },
+  {
+    "id": "beoordeling",
+    "dutch": "beoordeling",
+    "english": "assessment / evaluation",
+    "example": "U ontvangt een schriftelijke beoordeling.",
+    "theme": "education",
+    "source_years": [
+      2023
+    ],
+    "priority": 2
+  },
+  {
+    "id": "onderdeel",
+    "dutch": "onderdeel",
+    "english": "part / component",
+    "example": "Lezen is een onderdeel van het examen.",
+    "theme": "education",
+    "source_years": [
+      2023
+    ],
+    "priority": 2
+  },
+  {
+    "id": "behalen",
+    "dutch": "behalen",
+    "english": "to obtain / achieve",
+    "example": "Zij wil haar diploma behalen.",
+    "theme": "education",
+    "source_years": [
+      2023
+    ],
+    "priority": 2
+  },
+  {
+    "id": "voldoende-resultaat",
+    "dutch": "voldoende resultaat",
+    "english": "sufficient result",
+    "example": "U heeft een voldoende resultaat nodig.",
+    "theme": "education",
+    "source_years": [],
+    "priority": 2
+  },
+  {
+    "id": "eis",
+    "dutch": "eis",
+    "english": "requirement / demand",
+    "example": "De opleiding stelt een aantal eisen.",
+    "theme": "education",
+    "source_years": [],
+    "priority": 2
+  },
+  {
+    "id": "eisen",
+    "dutch": "eisen",
+    "english": "requirements / demands",
+    "example": "Bekijk de eisen voor de opleiding.",
+    "theme": "education",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "voldoen-aan",
+    "dutch": "voldoen aan",
+    "english": "to meet / comply with",
+    "example": "U moet aan de voorwaarden voldoen.",
+    "theme": "education",
+    "source_years": [
+      2023
+    ],
+    "priority": 2
+  },
+  {
+    "id": "aansluiten-op",
+    "dutch": "aansluiten op",
+    "english": "to align with / fit",
+    "example": "De cursus sluit aan op uw niveau.",
+    "theme": "education",
+    "source_years": [],
+    "priority": 2
+  },
+  {
+    "id": "toelichting",
+    "dutch": "toelichting",
+    "english": "explanation / clarification",
+    "example": "Bij elk antwoord staat een toelichting.",
+    "theme": "education",
+    "source_years": [],
+    "priority": 2
+  },
+  {
+    "id": "onderzoek",
+    "dutch": "onderzoek",
+    "english": "research / investigation",
+    "example": "Uit onderzoek komt nieuwe informatie.",
+    "theme": "information",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "resultaat",
+    "dutch": "resultaat",
+    "english": "result",
+    "example": "Het resultaat wordt maandag bekend.",
+    "theme": "information",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "oorzaak",
+    "dutch": "oorzaak",
+    "english": "cause",
+    "example": "De oorzaak van het probleem is onbekend.",
+    "theme": "information",
+    "source_years": [
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "gevolg",
+    "dutch": "gevolg",
+    "english": "consequence / result",
+    "example": "Het gevolg is dat de cursus later begint.",
+    "theme": "information",
+    "source_years": [
+      2023
+    ],
+    "priority": 2
+  },
+  {
+    "id": "verminderen",
+    "dutch": "verminderen",
+    "english": "to reduce",
+    "example": "We willen de kosten verminderen.",
+    "theme": "information",
+    "source_years": [
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "verbeteren",
+    "dutch": "verbeteren",
+    "english": "to improve",
+    "example": "De school wil de lessen verbeteren.",
+    "theme": "information",
+    "source_years": [
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "vergelijking",
+    "dutch": "vergelijking",
+    "english": "comparison",
+    "example": "Deze vergelijking laat een verschil zien.",
+    "theme": "information",
+    "source_years": [
+      2023
+    ],
+    "priority": 2
+  },
+  {
+    "id": "overeenkomen",
+    "dutch": "overeenkomen",
+    "english": "to agree / correspond",
+    "example": "De twee antwoorden komen overeen.",
+    "theme": "information",
+    "source_years": [],
+    "priority": 2
+  },
+  {
+    "id": "verschil",
+    "dutch": "verschil",
+    "english": "difference",
+    "example": "Er is een groot verschil tussen de opties.",
+    "theme": "information",
+    "source_years": [
+      2023
+    ],
+    "priority": 2
+  },
+  {
+    "id": "gemiddeld",
+    "dutch": "gemiddeld",
+    "english": "on average",
+    "example": "De deelnemers oefenen gemiddeld een uur.",
+    "theme": "information",
+    "source_years": [
+      2023
+    ],
+    "priority": 2
+  },
+  {
+    "id": "aantal",
+    "dutch": "aantal",
+    "english": "number / quantity",
+    "example": "Het aantal deelnemers is gestegen.",
+    "theme": "information",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "meerderheid",
+    "dutch": "meerderheid",
+    "english": "majority",
+    "example": "De meerderheid kiest voor online les.",
+    "theme": "information",
+    "source_years": [
+      2023
+    ],
+    "priority": 2
+  },
+  {
+    "id": "minderheid",
+    "dutch": "minderheid",
+    "english": "minority",
+    "example": "Een minderheid kiest voor dinsdag.",
+    "theme": "information",
+    "source_years": [],
+    "priority": 2
+  },
+  {
+    "id": "beperkt",
+    "dutch": "beperkt",
+    "english": "limited",
+    "example": "Het aantal plekken is beperkt.",
+    "theme": "information",
+    "source_years": [
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "voorkomen",
+    "dutch": "voorkomen",
+    "english": "to prevent / occur",
+    "example": "We willen problemen voorkomen.",
+    "theme": "information",
+    "source_years": [
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "rekening-houden-met",
+    "dutch": "rekening houden met",
+    "english": "to take into account",
+    "example": "Houd rekening met de openingstijden.",
+    "theme": "information",
+    "source_years": [],
+    "priority": 2
+  },
+  {
+    "id": "waarschijnlijk",
+    "dutch": "waarschijnlijk",
+    "english": "probably / likely",
+    "example": "Het wordt waarschijnlijk morgen bekend.",
+    "theme": "information",
+    "source_years": [],
+    "priority": 2
+  },
+  {
+    "id": "daadwerkelijk",
+    "dutch": "daadwerkelijk",
+    "english": "actually / in fact",
+    "example": "Controleer of u daadwerkelijk bent ingeschreven.",
+    "theme": "information",
+    "source_years": [
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "hetzij",
+    "dutch": "hetzij",
+    "english": "either / or (formal)",
+    "example": "U betaalt hetzij vooraf, hetzij achteraf.",
+    "theme": "formal",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "waarbij",
+    "dutch": "waarbij",
+    "english": "whereby / in which",
+    "example": "Er is een gesprek waarbij iedereen meedoet.",
+    "theme": "connectors",
+    "source_years": [],
+    "priority": 1
+  },
+  {
+    "id": "waardoor",
+    "dutch": "waardoor",
+    "english": "as a result of which",
+    "example": "Het regende, waardoor de wedstrijd niet doorging.",
+    "theme": "connectors",
+    "source_years": [
+      2024
+    ],
+    "priority": 1
+  },
+  {
+    "id": "voldoende-zijn",
+    "dutch": "voldoende zijn",
+    "english": "to be sufficient",
+    "example": "Een e-mail kan voldoende zijn.",
+    "theme": "formal",
+    "source_years": [],
+    "priority": 2
+  },
+  {
+    "id": "in-aanmerking-komen",
+    "dutch": "in aanmerking komen",
+    "english": "to qualify / be eligible",
+    "example": "Studenten komen mogelijk in aanmerking.",
+    "theme": "conditions",
+    "source_years": [],
+    "priority": 1
+  },
+  {
+    "id": "naar-aanleiding-van",
+    "dutch": "naar aanleiding van",
+    "english": "following / in response to",
+    "example": "Naar aanleiding van uw brief reageren wij.",
+    "theme": "formal",
+    "source_years": [],
+    "priority": 2
+  },
+  {
+    "id": "vanwege",
+    "dutch": "vanwege",
+    "english": "because of / due to",
+    "example": "Vanwege ziekte blijft de collega thuis.",
+    "theme": "connectors",
+    "source_years": [
+      2023
+    ],
+    "priority": 1
+  },
+  {
+    "id": "wegens",
+    "dutch": "wegens",
+    "english": "due to / because of",
+    "example": "Wegens onderhoud blijft het gebouw dicht.",
+    "theme": "formal",
+    "source_years": [
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "ondertussen",
+    "dutch": "ondertussen",
+    "english": "meanwhile",
+    "example": "Ondertussen werkt zij aan haar opdracht.",
+    "theme": "connectors",
+    "source_years": [],
+    "priority": 1
+  },
+  {
+    "id": "bijhouden",
+    "dutch": "bijhouden",
+    "english": "to keep track of",
+    "example": "Houd uw voortgang elke week bij.",
+    "theme": "education",
+    "source_years": [],
+    "priority": 2
+  },
+  {
+    "id": "voortgang",
+    "dutch": "voortgang",
+    "english": "progress",
+    "example": "De docent bespreekt uw voortgang.",
+    "theme": "education",
+    "source_years": [],
+    "priority": 2
+  },
+  {
+    "id": "moeten-worden",
+    "dutch": "moeten worden",
+    "english": "must be (passive)",
+    "example": "De documenten moeten worden ingeleverd.",
+    "theme": "formal",
+    "source_years": [],
+    "priority": 2
+  },
+  {
+    "id": "er-wordt",
+    "dutch": "er wordt",
+    "english": "there is / there are (passive)",
+    "example": "Er wordt elke dinsdag vergaderd.",
+    "theme": "formal",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "geregeld",
+    "dutch": "geregeld",
+    "english": "arranged / regularly (by context)",
+    "example": "Alles is goed geregeld.",
+    "theme": "formal",
+    "source_years": [
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "namelijk-niet",
+    "dutch": "namelijk niet",
+    "english": "namely not / in fact not",
+    "example": "De regels gelden namelijk niet voor iedereen.",
+    "theme": "formal",
+    "source_years": [],
+    "priority": 2
+  },
+  {
+    "id": "advies",
+    "dutch": "advies",
+    "english": "advice",
+    "example": "De docent geeft advies over de cursus.",
+    "theme": "education",
+    "source_years": [],
+    "priority": 2
+  },
+  {
+    "id": "ondernemingsraad",
+    "dutch": "ondernemingsraad",
+    "english": "works council",
+    "example": "De ondernemingsraad vertegenwoordigt het personeel.",
+    "theme": "work",
+    "source_years": [
+      2023,
+      2024
+    ],
+    "priority": 2
+  },
+  {
+    "id": "aanmelden",
+    "dutch": "aanmelden",
+    "english": "to register / sign up",
+    "example": "Meld u aan bij de receptie.",
+    "theme": "conditions",
+    "source_years": [],
+    "priority": 1
+  },
+  {
+    "id": "invoeren",
+    "dutch": "invoeren",
+    "english": "to introduce / implement",
+    "example": "Het bedrijf wil nieuwe regels invoeren.",
+    "theme": "formal",
+    "source_years": [],
+    "priority": 2
+  },
+  {
+    "id": "gegevens",
+    "dutch": "gegevens",
+    "english": "data / information",
+    "example": "De school beschermt uw gegevens.",
+    "theme": "formal",
+    "source_years": [],
+    "priority": 2
+  },
+  {
+    "id": "instemming",
+    "dutch": "instemming",
+    "english": "approval / consent",
+    "example": "Voor het plan is instemming nodig.",
+    "theme": "formal",
+    "source_years": [],
+    "priority": 2
+  },
+  {
+    "id": "legitimeren",
+    "dutch": "legitimeren",
+    "english": "to identify oneself",
+    "example": "U moet zich bij de balie legitimeren.",
+    "theme": "conditions",
+    "source_years": [],
+    "priority": 1
+  },
+  {
+    "id": "tijdig",
+    "dutch": "tijdig",
+    "english": "on time / in good time",
+    "example": "Meld problemen tijdig.",
+    "theme": "conditions",
+    "source_years": [],
+    "priority": 1
+  }
+]

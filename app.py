@@ -99,6 +99,17 @@ with st.sidebar:
     st.caption(f'🗓️ {TODAY.strftime("%d %b %Y")} · {store.mode}')
     if store.mode=='Local JSON':
         st.warning('Local progress is saved on this server. Streamlit Community Cloud may erase it during restarts. Connect Google Sheets before relying on cross-device progress.',icon='⚠️')
+        try:
+            secret_sections = set(st.secrets.keys())
+        except (FileNotFoundError, KeyError):
+            secret_sections = set()
+        missing_sections = [name for name in ('gsheets', 'gcp_service_account') if name not in secret_sections]
+        if missing_sections:
+            st.error('Google Sheets is not configured in the active Streamlit Secrets. Missing section(s): ' + ', '.join(missing_sections))
+            st.caption('Open Streamlit Community Cloud → your app → Settings → Secrets. Save the complete TOML there, then reboot the app. Do not put secrets in GitHub.')
+        else:
+            st.info('Both Google Sheets secret sections are present, but this app session is still using local storage. Reboot the app from Streamlit Community Cloud to clear the cached connection.')
+        st.caption('Diagnostic only: no credential values are displayed.')
 
 
 def review_card():

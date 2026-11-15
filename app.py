@@ -48,18 +48,36 @@ if passcode:
                 st.error('The passcode is incorrect.')
         st.stop()
 
+def storage_revision():
+    """Invalidate the cached connection when the configured cloud account changes."""
+    try:
+        sheets = st.secrets.get('gsheets', {})
+        account = st.secrets.get('gcp_service_account', {})
+        return (
+            str(sheets.get('spreadsheet_id', '')),
+            str(sheets.get('worksheet', '')),
+            str(account.get('private_key_id', '')),
+            'gsheets' in st.secrets,
+            'gcp_service_account' in st.secrets,
+        )
+    except FileNotFoundError:
+        return ('local',)
+
 @st.cache_resource(show_spinner=False)
-def get_store():
+def get_store(revision):
     return make_storage(st.secrets,local_path=str(ROOT/'data'/'progress.json'))
 
 try:
-    store=get_store()
+    store=get_store(storage_revision())
 except Exception as e:
     st.error(f'Could not connect to progress storage: {e}')
-    st.info('Check your Google Sheet ID, permissions, and Streamlit secrets. Your data has not been overwritten.')
+    st.info('Open your app’s Streamlit Cloud Settings → Secrets to check the configuration. Never paste your private key into GitHub or chat. Existing progress was not overwritten.')
     st.stop()
 
 USER_ID=str(secret_or('USER_ID','main'))
+if st.session_state.get('active_storage_mode') != store.mode:
+    st.session_state.pop('progress', None)
+    st.session_state['active_storage_mode'] = store.mode
 if 'progress' not in st.session_state:
     try:
         st.session_state['progress']=store.load(USER_ID)

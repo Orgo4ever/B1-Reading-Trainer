@@ -80,10 +80,42 @@ class GoogleSheetsStorage:
 
 
 def make_storage(secrets, local_path='data/progress.json'):
+    """Use local storage only when cloud settings are entirely absent.
+
+    Once cloud sync is configured, never silently fall back to volatile local JSON:
+    surface configuration / connectivity problems so progress cannot be lost.
+    """
     try:
-        gs = dict(secrets['gcp_service_account'])
-        cfg = dict(secrets['gsheets'])
-        spreadsheet_id = cfg['spreadsheet_id']
-        return GoogleSheetsStorage(gs, spreadsheet_id, cfg.get('worksheet', 'progress'))
-    except (KeyError, FileNotFoundError):
+        configured = set(secrets.keys())
+    except FileNotFoundError:
+        configured = set()
+
+    have_sheet = 'gsheets' in configured
+    have_account = 'gcp_service_account' in configured
+    if not have_sheet and not have_account:
         return LocalStorage(local_path)
+    if not have_sheet:
+        raise RuntimeError('Google Sheets setup incomplete: [gsheets] section missing in Streamlit Secrets.')
+    if not have_account:
+        raise RuntimeError('Google Sheets setup incomplete: [gcp_service_account] section missing in Streamlit Secrets.')
+
+    cfg = dict(secrets['gsheets'])
+    credentials = dict(secrets['gcp_service_account'])
+    spreadsheet_id = str(cfg.get('spreadsheet_id', '')).strip()
+    if not spreadsheet_id or spreadsheet_id.startswith('YOUR_'):
+        raise RuntimeError('Google Sheets setup incomplete: [gsheets].spreadsheet_id is missing or still a placeholder.')
+
+    required = ('type', 'project_id', 'private_key_id', 'private_key', 'client_email', 'token_uri')
+    missing = [key for key in required if not str(credentials.get(key, '')).strip()
+               or str(credentials[key]).startswith(('YOUR_', 'COPY_FROM_'))]
+    if missing:
+        raise RuntimeError('Google Sheets setup incomplete: service account field(s) missing or placeholders: ' + ', '.join(missing))
+
+    try:
+        return GoogleSheetsStorage(credentials, spreadsheet_id, str(cfg.get('worksheet') or 'progress'))
+    except Exception as exc:
+        # Do not render an API exception directly: it may contain sensitive identifiers.
+        raise RuntimeError(
+            'Google Sheets connection failed (' + type(exc).__name__ +
+            '). Check the spreadsheet ID, Sheets API, service-account key and Editor sharing permission.'
+        ) from exc
